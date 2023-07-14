@@ -1,0 +1,43 @@
+.row111{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+}
+.nav-bar{
+    text-align: center;
+}
+.row1 .txtarea {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.row1 .txtarea .ima img {
+    height: 90%;
+    margin: 0px auto;
+    width: 73%;
+    display: block;
+}
+.row1 .txtarea .ima  {
+    height: 90%;
+    margin-left: 2%;
+    width: 98%;
+}
+.row1 h2{
+    text-align: center;
+}
+
+.ima2{
+    width: 98%;
+    height: 90%;
+}
+.ima2 img{
+    width: 79% !important;
+    margin: 0px auto !important;
+    display: block;
+    height: 85%;
+}
+
+.copyright{
+    margin-top: 29px;
+}
